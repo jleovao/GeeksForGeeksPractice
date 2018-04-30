@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  * Author      : Joseph Leovao
- * Date        : April 24, 2017
+ * Date        : April 24, 2018
  * Filename    : MissingNumberInArray.java
  * Problem     : Given an array of size n-1 and given that there are numbers from 
  *               1 to n with one missing, the missing number is to be found.
